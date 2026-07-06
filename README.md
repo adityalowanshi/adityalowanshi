@@ -70,15 +70,7 @@ const aditya = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=adityalowanshi&show_icons=true&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityalowanshi&layout=compact&hide_border=true&title_color=00ff41&text_color=c9d1d9&bg_color=0d1117" />
-</p>
-
+ 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=adityalowanshi&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
 </p>
