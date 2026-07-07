@@ -10,24 +10,8 @@
 
 ---
 
-### 👋 About me
-
-```ts
-const aditya = {
-  role: "Software Engineer @ Syvora Services",
-  experience: "2+ years shipping production backends",
-  domains: ["AI / LLM infra", "DeFi & on-chain data", "SaaS platforms"],
-  location: "Indore, Madhya Pradesh, India 🇮🇳",
-  currentlyBuilding: "omni-mcp — a centralised MCP auth layer for every platform",
-  focus: ["distributed systems", "API performance", "payments & auth"],
-};
-```
-
 - 🔭 Building **[omni-mcp](https://github.com/adityalowanshi/omni-mcp)** — one OAuth layer + tool registry that fronts Gmail, Calendar & more over the Model Context Protocol.
-- ⚡ Cut API latency **700ms → 150ms** with composite Mongo indexes + Redis caching on hot paths.
 - 🤖 Built multi-provider LLM routing & hybrid RAG across **OpenAI · Groq · Fireworks · DeepSeek**.
-- ⛓️ Indexed on-chain events with **The Graph · Goldsky · Sentio** and **Ethers.js** contract reads.
-- 💳 Shipped idempotent billing with **Stripe** & **Coinbase Commerce** (no double-charges on retries).
 - 🧩 Solved **250+** DSA problems across LeetCode, CodeStudio & GFG.
 
 ---
@@ -70,15 +54,4 @@ const aditya = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
 
- 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityalowanshi&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
-</p>
-
 ---
-
-> 🔒 Most production work is under NDA. Public repositories showcase personal projects and open-source contributions.
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:0F4539&height=90&section=footer" />
-</p>
