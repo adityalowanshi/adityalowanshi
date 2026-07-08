@@ -1,5 +1,5 @@
 
-- 🔭 Building **[omni-mcp](https://github.com/adityalowanshi/omni-mcp)** — one OAuth layer + tool registry that fronts Gmail, Calendar & more over the Model Context Protocol.
+- 🔭 Building **[omni-mcp](https://github.com/valyrianforge/omni-mcp)** — one OAuth layer + tool registry that fronts Gmail, Calendar & more over the Model Context Protocol.
 - 🤖 Built multi-provider LLM routing & hybrid RAG across **OpenAI · Groq · Fireworks · DeepSeek**.
 - 🧩 Solved **250+** DSA problems across LeetCode, CodeStudio & GFG.
 
