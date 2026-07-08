@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F4539,100:00ff41&height=170&section=header&text=Aditya%20Lowanshi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Backend%20Engineer%20%C2%B7%20AI%20%C2%B7%20DeFi%20%C2%B7%20SaaS&descAlignY=52&descColor=b0ffb0" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-lowanshi-15862020b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:lowanshig23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=adityalowanshi&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" />
-</p>
-
----
 
 - 🔭 Building **[omni-mcp](https://github.com/adityalowanshi/omni-mcp)** — one OAuth layer + tool registry that fronts Gmail, Calendar & more over the Model Context Protocol.
 - 🤖 Built multi-provider LLM routing & hybrid RAG across **OpenAI · Groq · Fireworks · DeepSeek**.
